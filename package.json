@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "postinstall": "./bin/heroku_install"
+    "postinstall": "./bin/heroku_install",
+    "test": "echo npm test --lol"
   },
   "dependencies": {
     "bower": "*"
