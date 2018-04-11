@@ -1,6 +1,6 @@
 {
-  "groups" {
-    "default": {
+  "groups": {
+    "frontend": {
       "packages": [
         "admin/package.json",
         "frontend/package.json",
