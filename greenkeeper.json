@@ -1,6 +1,6 @@
 {
   "groups": {
-    "frontend": {
+    "ui": {
       "packages": [
         "admin/package.json",
         "frontend/package.json",
