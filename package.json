@@ -5,7 +5,7 @@
   },
   "dependencies": {
     "bower": "*",
-    "gk-test-a": "9.0.4",
+    "gk-test-a": "10.0.1",
     "gk-test-c": "9.0.4"
   },
   "cacheDirectories": [
