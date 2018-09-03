@@ -6,7 +6,7 @@
   "dependencies": {
     "bower": "*",
     "gk-test-a": "11.1.2",
-    "gk-test-c": "9.0.4"
+    "gk-test-c": "11.1.2"
   },
   "cacheDirectories": [
     "frontend/node_modules",
