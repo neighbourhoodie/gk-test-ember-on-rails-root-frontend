@@ -34,7 +34,7 @@
     "ember-cli-release": "0.2.9",
     "ember-cli-sri": "2.1.1",
     "ember-cli-uglify": "2.1.0",
-    "ember-data": "3.3.1",
+    "ember-data": "3.4.0",
     "ember-disable-proxy-controllers": "1.0.1",
     "ember-export-application-global": "2.0.0",
     "gk-test-c": "9.0.4",
