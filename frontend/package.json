@@ -21,7 +21,7 @@
   "devDependencies": {
     "bumper-car": "12.0.0",
     "broccoli-asset-rev": "3.0.0",
-    "ember-cli": "3.3.0",
+    "ember-cli": "3.4.3",
     "ember-cli-app-version": "3.2.0",
     "ember-cli-babel": "6.16.0",
     "ember-cli-content-security-policy": "1.0.0",
